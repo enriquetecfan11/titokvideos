@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.DS_Store
+.cache/
+.idea/
+.vscode/
+*.log
+*.lock
+*.tmp
+output/
+coverage/
+remotion/
+public/assets/imagen.jpg
